@@ -4,6 +4,8 @@
 
 拖拽组件的管家接口的实现类。
 
+![](../../../.gitbook/assets/image%20%281%29.png)
+
 > 建议：开发的时候可以勾选 DrawRayLine 以方便观察调试。
 
 ### Properties
