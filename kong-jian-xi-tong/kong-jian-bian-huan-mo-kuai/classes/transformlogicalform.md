@@ -8,7 +8,7 @@
 
 | Name | Virtual | Description |
 | :--- | :--- | :--- |
-| EventCamera | 是 | 物体的事件摄像机 |
+| Logic | 是 | 逻辑接口。 |
 
 ### Methods
 
